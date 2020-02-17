@@ -5,7 +5,6 @@ from create_random_solved_sudoku import generate_sudoku
 from solver import create_hidden
 import copy
 import random
-random.seed(0)
 
 pygame.font.init()
 pygame.init()
